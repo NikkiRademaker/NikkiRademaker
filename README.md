@@ -7,6 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=a371f7&center=true&vCenter=true&width=360&height=44&lines=creative%20technologist" alt="Typing headlines" />
 </p>
 🚀 About Me
+<br>
 Hello! I am a tech enthusiast with a background in Bioinformatics (BSc) and Creative Intelligence & Technology (MSc). My background combines scientific research, data, programming, and creative technology. Most of my projects focus on interactive tools and games. Additionally, I have a strong interest in human-computer interaction.
 <br><br>
 🛠️ Tech Stack
