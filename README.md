@@ -8,7 +8,7 @@
 </p>
 🚀 About Me
 Hello! I am a tech enthusiast with a background in Bioinformatics (BSc) and Creative Intelligence & Technology (MSc). My background combines scientific research, data, programming, and creative technology. Most of my projects focus on interactive tools and games. Additionally, I have a strong interest in human-computer interaction.
-<br> <br>
+<br><br>
 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -25,6 +25,10 @@ Hello! I am a tech enthusiast with a background in Bioinformatics (BSc) and Crea
   <a href="https://www.linkedin.com/in/nikki-s-rademaker/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://nikkirademaker.com/"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:n.s.rademaker@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=NikkiRademaker&layout=compact&theme=tokyonight&title_color=db61a2&icon_color=db61a2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 💭 Dev Quote
 <p align="center">
