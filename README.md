@@ -8,7 +8,7 @@
 </p>
 🚀 About Me
 <br>
-Hello! I am a tech enthusiast with a background in Bioinformatics (BSc) and Creative Intelligence & Technology (MSc). My background combines scientific research, data, programming, and creative technology. Most of my projects focus on interactive tools and games. Additionally, I have a strong interest in human-computer interaction.
+Hello! I am a tech enthusiast with a degree in Bioinformatics (BSc) and Creative Intelligence & Technology (MSc). My background combines scientific research, data, programming, and creative technology. Most of my projects focus on interactive tools and games. Additionally, I have a strong interest in human-computer interaction.
 <br><br>
 🛠️ Tech Stack
 <p align="left">
