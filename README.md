@@ -8,6 +8,7 @@
 </p>
 🚀 About Me
 Hello! I am a tech enthusiast with a background in Bioinformatics (BSc) and Creative Intelligence & Technology (MSc). My background combines scientific research, data, programming, and creative technology. Most of my projects focus on interactive tools and games. Additionally, I have a strong interest in human-computer interaction.
+<br>
 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
